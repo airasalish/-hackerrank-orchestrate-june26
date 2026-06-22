@@ -1,0 +1,4 @@
+.env
+*.pyc
+__pycache__/
+evaluation/eval_output.csv
