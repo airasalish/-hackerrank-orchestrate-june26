@@ -1,3 +1,27 @@
+<h1 align="center">🔍 Multi-Modal Damage-Claim Verifier</h1>
+
+<p align="center"><b>Do the photos actually prove the damage?</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank_Orchestrate-June_2026-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate June 2026">
+  <img src="https://img.shields.io/badge/Rank-%23206_%C2%B7_Top_11.6%25-070a12?style=for-the-badge" alt="Rank #206, top 11.6%">
+  <img src="https://img.shields.io/badge/Gemini-vision-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini vision">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+Built in **24 hours**. Given a claim chat, the submitted photos, the user's claim history and the minimum evidence rules for **cars, laptops and parcels**, the system decides whether the images **support** the claim, **contradict** it, or **aren't enough**.
+
+- 👁️ **Google Gemini vision** reads each photo against the claim
+- 📋 Evidence requirements and user risk history are checked in plain code
+- 🧪 An evaluation harness and auditor score every field against the labelled samples
+
+**▶ Solution docs and how to run it: [`code/README.md`](code/README.md)** · Evaluation report: [`code/evaluation/evaluation_report.md`](code/evaluation/evaluation_report.md)
+
+---
+
+<details>
+<summary><b>Original challenge README</b></summary>
+
 # HackerRank Orchestrate
 
 Starter repository for the **HackerRank Orchestrate** 24-hour hackathon.
@@ -159,3 +183,9 @@ Before submitting, confirm:
 After submission, the AI Judge may ask about your approach, implementation decisions, model usage, evaluation strategy, and how you used AI while building the solution.
 
 Be prepared to explain your solution in detail.
+
+</details>
+
+---
+
+<sub>Built by **Aira K. Salish** · [GitHub](https://github.com/airasalish) · [Portfolio](https://aira-salish.vercel.app) · [LinkedIn](https://linkedin.com/in/airasalish)</sub>
